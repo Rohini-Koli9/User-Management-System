@@ -1,0 +1,20 @@
+INSERT INTO `user` 
+(`id`, `first_name`,  `last_name`,         `email`,                  `phone`,         `comments`, `status`) VALUES
+(NULL, 'Ananya',       'Sharma',           'asharma@xyz.com',        '987654 3210',   '',          'active'),
+(NULL, 'Rohan',        'Verma',            'rverma@xyz.com',         '987654 3211',   '',          'active'),
+(NULL, 'Arjun',        'Singh',            'asingh@xyz.com',         '987654 3212',   '',          'active'),
+(NULL, 'Priya',        'Mishra',           'pmishra@xyz.com',        '987654 3213',   '',          'active'),
+(NULL, 'Neha',         'Patel',            'npatel@xyz.com',         '987654 3214',   '',          'active'),
+(NULL, 'Vikram',       'Chauhan',          'vchauhan@xyz.com',       '987654 3215',   '',          'active'),
+(NULL, 'Aditi',        'Iyer',             'aiyer@xyz.com',          '987654 3216',   '',          'active'),
+(NULL, 'Karan',        'Deshmukh',         'kdeshmukh@xyz.com',      '987654 3217',   '',          'active'),
+(NULL, 'Meera',        'Bajaj',            'mbajaj@xyz.com',         '987654 3218',   '',          'active'),
+(NULL, 'Rahul',        'Pandey',           'rpandey@xyz.com',        '987654 3219',   '',          'active'),
+(NULL, 'Sanjay',       'Rao',              'srao@xyz.com',           '987654 3220',   '',          'active'),
+(NULL, 'Nikhil',       'Gupta',            'ngupta@xyz.com',         '987654 3221',   '',          'active'),
+(NULL, 'Raj',          'Kumar',            'rkumar@xyz.com',         '987654 3222',   '',          'active'),
+(NULL, 'Pooja',        'Naik',             'pnaik@xyz.com',          '987654 3223',   '',          'active'),
+(NULL, 'Swati',        'Mehta',            'smehta@xyz.com',         '987654 3224',   '',          'active'),
+(NULL, 'Vivek',        'Joshi',            'vjoshi@xyz.com',         '987654 3225',   '',          'active'),
+(NULL, 'Sneha',        'Reddy',            'sreddy@xyz.com',         '987654 3226',   '',          'active'),
+(NULL, 'Aman',         'Kapoor',           'akapoor@xyz.com',        '987654 3227',   '',          'active');
